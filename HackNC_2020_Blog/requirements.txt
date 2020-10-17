@@ -18,3 +18,5 @@ six==1.11.0
 SQLAlchemy==1.2.7
 Werkzeug==0.14.1
 WTForms==2.1
+
+use 'pip uninstall [package name] && py -m pip install [package name]' to install the package listed above in order to run the web as a local host.
